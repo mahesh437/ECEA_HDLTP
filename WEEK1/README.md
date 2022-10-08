@@ -5,6 +5,8 @@ REASON
     and also nowadays system verilog is in trend to learn that verilog is a prerequiste 
     
 INFERENCE
+
+
      after creating the project we should code the verilog script which describes the circuit we will be working on 
      for now as we have the verilog file(adder.v) we can just upload it as a existing file .
      
