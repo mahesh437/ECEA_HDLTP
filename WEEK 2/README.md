@@ -1,3 +1,4 @@
+i construct the 2 bit adder using two full adders
 
 screenshots 
 
